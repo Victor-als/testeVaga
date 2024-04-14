@@ -20,6 +20,4 @@ $ git clone https://github.com/Victor-als/testeVaga
 ```sh
 cd testeVaga
 
-3. Install all dependencies:
-
-precisa rodar o json server
+Precisa rodar o json server para fazer as chamadas na API.
