@@ -21,17 +21,6 @@
         "danger": "#c82333",
         "warning": "#ffc107"
       }
-    },
-    {
-      "id": 650,
-      "name": "tema preto",
-      "colors": {
-        "primary": "#000000",
-        "secondary": "#000000",
-        "success": "#000000",
-        "danger": "#000000",
-        "warning": "#000000"
-      }
     }
   ]
 }
