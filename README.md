@@ -21,3 +21,6 @@ $ git clone https://github.com/Victor-als/testeVaga
 cd testeVaga
 
 Precisa rodar o json server para fazer as chamadas na API.
+Instale ele com
+npm install -g json-server@
+e depois json-server --watch db.json 
